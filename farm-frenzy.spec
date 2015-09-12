@@ -1,6 +1,6 @@
 Name: farm-frenzy
 Version: 1.0
-Release: 2
+Release: 3
 # Tarball generated from installing the game available at the download
 # URL by running
 # WINEPREFIX=/usr/lib/games/Fram-Frenzy wine farmfrenzy_setup_full.exe
