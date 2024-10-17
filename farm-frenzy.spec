@@ -16,7 +16,7 @@ Source2: winegame.c
 # Used for creating source tarball, see above
 Source3: remove-unnecessary-wine-bits
 Summary: Farming game
-URL: http://www.myplaycity.com/farm_frenzy/
+URL: https://www.myplaycity.com/farm_frenzy/
 License: Distributable
 Group: Games/Arcade
 ExclusiveArch: %{ix86} x86_64
